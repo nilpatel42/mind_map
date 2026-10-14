@@ -1,0 +1,23 @@
+{
+ "app": "mind_map",
+ "creation": "2026-10-08 10:02:02.987535",
+ "docstatus": 0,
+ "doctype": "Dock",
+ "idx": 0,
+ "items": [
+  {
+   "added": 0,
+   "hidden": 0,
+   "icon": "map-plus",
+   "link_to": "Mind Map",
+   "link_type": "Sidebar",
+   "title": "Mind Map"
+  }
+ ],
+ "modified": "2026-10-08 10:03:14.274803",
+ "modified_by": "Administrator",
+ "name": "mind_map",
+ "owner": "Administrator",
+ "standard": 1,
+ "user": ""
+}

@@ -11,15 +11,15 @@ app_license = "mit"
 # required_apps = []
 
 # Each item in the list will be shown as an app in the apps page
-# add_to_apps_screen = [
-# 	{
-# 		"name": "mind_map",
-# 		"logo": "/assets/mind_map/logo.png",
-# 		"title": "Mind Map",
-# 		"route": "/mind_map",
-# 		"has_permission": "mind_map.api.permission.has_app_permission"
-# 	}
-# ]
+add_to_apps_screen = [
+	{
+		"name": "mind_map",
+		"logo": "/assets/mind_map/mind_map.webp",
+		"title": "Mind Map",
+		"route": "/desk/mind-map-viewer",
+		"has_permission": "erpnext.check_app_permission"
+	}
+]
 
 # Includes in <head>
 # ------------------
